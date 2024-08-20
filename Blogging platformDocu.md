@@ -13,6 +13,6 @@
         2. Use case
 
 ## F.Database Architecture
-  • Data Dictionary
+  1. Data Dictionary
   
-  • ERD
+  2. ERD
