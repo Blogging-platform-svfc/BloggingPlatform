@@ -200,6 +200,10 @@ Notifications and Alerts:
 
 ## F.Database Architecture
   1. Data Dictionary
+     ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/A.jfif)
+      ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/B.jfif)
+      ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/C.jfif)
      
   
   3. ERD
+     
