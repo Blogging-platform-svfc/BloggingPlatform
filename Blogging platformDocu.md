@@ -195,6 +195,7 @@ Notifications and Alerts:
 - Customizable notification settings: Allow users to control the types of notifications they receive.
 
         2. Use case
+  
 
 ## F.Database Architecture
   1. Data Dictionary
