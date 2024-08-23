@@ -195,6 +195,7 @@ Notifications and Alerts:
 - Customizable notification settings: Allow users to control the types of notifications they receive.
 
         2. Use case
+  ![Image Alt](https://github.com/Gerliedao-ayan/Gerliedao-ayan/blob/9a6e0caf946be67f1c428f80a0873ae742da31e9/Sitemap%20Whiteboard%20in%20Green%20Purple%20Basic%20Style.jpg)
   
 
 ## F.Database Architecture
