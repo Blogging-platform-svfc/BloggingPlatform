@@ -12,6 +12,7 @@
 
 ## B. Project Description:
 
+The College Compass is a project aimed at developing a dedicated blogging platform designed specifically for college students, addressing their unique needs and challenges in the academic, social, and professional spheres, by providing a safe, engaging, and collaborative space for students to express themselves, share their knowledge, connect with peers, and build their professional networks, all within a supportive environment, thereby empowering student voices, fostering academic engagement, promoting collaboration and networking, and enhancing career development, all while utilizing a user-friendly interface, integrating academic features, providing career development resources, fostering community building, enhancing safety and security, and incorporating gamification and rewards to motivate students and encourage active participation, ultimately creating a valuable resource for college students, addressing their unique needs and empowering them to achieve their academic, social, and professional goals.
 
 ## C. Project Objectives:
 
