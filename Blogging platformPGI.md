@@ -96,4 +96,6 @@ Potential for Expansion and Diversification:
 - User acceptance testing
 ## F. Benchmarking:
 
+ex: Collegestudentsvfcblog.ph
+
 ## G. Estimated Project Duration:
