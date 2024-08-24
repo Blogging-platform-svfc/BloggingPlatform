@@ -1,5 +1,14 @@
 ## A. Problem Statement:
 
+ While existing blogging platforms are readily available, they often lack features and functionalities tailored to the specific needs and challenges faced by students, such as limited educational integration, safety concerns, and a lack of community-building features.  This results in a less than ideal experience for young users who are seeking to express themselves, engage in learning, and connect with peers in a safe and supportive online environment. This project aims to address these shortcomings by creating a dedicated blogging platform designed specifically for students, incorporating features that support classroom activities, robust moderation tools, and community-building elements to foster a sense of belonging and encourage active participation among students.
+ 
+ "Pros and Cons of Blogging for Students." Palomar College Telescope, 9 May 2019, www.palomar.edu/telescope/2019/05/09/pros-and-cons-of-blogging-for-students/.
+ 
+"Opinion: For Students, Blogging Doesn't Feel Like Work." Education Week, 1 Feb. 2017, www.edweek.org/leadership/opinion-for-students-blogging-doesnt-feel-like-work/2017/02.
+ 
+"3 Problems to Address Before You Begin Blogging at Your School." Ask a Tech Teacher, www.askatechteacher.com/3-problems-to-address-before-you-begin-blogging-at-your-school/.
+ 
+ "Blogging for Students in the Classroom." Scale Blogging, www.scaleblogging.com/blogging-for-students-in-the-classroom/.
 
 ## B. Project Description:
 
