@@ -10,7 +10,6 @@
 - Feature 2
 - Feature 3
 - Feature 4
-- 
 ## D. Business Benefits:
 
 - Benefit 1
