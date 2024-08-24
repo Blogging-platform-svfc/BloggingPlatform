@@ -98,4 +98,9 @@ Potential for Expansion and Diversification:
 
 ex: Collegestudentsvfcblog.ph
 
-## G. Estimated Project Duration:
+## G. Estimated Project Duration: 4 to 5 months
+
+prepared by:
+Beriso, Jerome C.
+Dao-ayan Gerlie E.
+Soler, Pauline R.
