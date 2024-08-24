@@ -1,11 +1,10 @@
 ## A. Problem Statement:
-State the problem your system is solving.
+
 
 ## B. Project Description:
-Briefly describe your system and its main purpose.
+
 
 ## C. Project Objectives:
-Develop [System Name] to help manage [specific area], with the following features:
 
 - Feature 1
 - Feature 2
