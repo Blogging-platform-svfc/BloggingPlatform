@@ -195,14 +195,51 @@ Notifications and Alerts:
 - Customizable notification settings: Allow users to control the types of notifications they receive.
 
         2. Use case
-  ![Image Alt](https://github.com/Gerliedao-ayan/Gerliedao-ayan/blob/9a6e0caf946be67f1c428f80a0873ae742da31e9/Sitemap%20Whiteboard%20in%20Green%20Purple%20Basic%20Style.jpg)
+
   
 
 ## F.Database Architecture
   1. Data Dictionary
-     ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/A.jfif)
-      ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/B.jfif)
-      ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/C.jfif)
+     
+     USERTABLE
+     
+|   Field Name  |   Data Type   |  Data Format  |  Field Size   |  Description  |    Example   |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| User ID  | Int User ID  |          |         | USER ID is the unique identifier for each user in the system. It serves as the primary key for the User table, ensuring each user has a distinct identification number. | CUserID: 1001  |
+| User Name  | Varchar  |        |   255    | USER NAME is the name used by the user for identification purposes. It is typically a character string that helps users distinguish themselves on the platform  | Username: GERL_DAO  |
+|Email   | Varchar  |         |       255    | EMAIL is the email address associated with the user’s account. It serves as a means of communication and login credential for the user.  | Email : gerliedaoayan@gmail.com  |
+| Password  | Varchar  |        |     255     | PASSWORD is a secure string used for user authentication and access control. It is essential for user account security and privacy.  | Password: P@ssw0rd123  |
+| DateJoined  | Date  | DD/MM/YYYY  |       | DATEJOINED is the date when the user joined the platform. It is a timestamp that tracks the registration or creation date of the user  | DateJoined: 2020-08-25  |
+
+      POSTTABLE 
+      
+|   Field Name  |   Data Type   |  Data Format  |  Field Size   |  Description  |    Example   |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| PostID | int |  |  | Primary key for identifying each post uniquely. | 101 |
+| Title | varchar |  | 255 | The Title of th post | "Introduction to SQL" |
+| Content | text |  | variable | The main content of the post. | "This is a sample post content." |
+| DatePosted | Date | YYYY/DD/MM |  | The date when the post was created. | 2024-08-23 |
+| UserID | int |  |  | The user ID of the author of the post | 201 |
+
+
+COMMENTTABLE
+
+|   Field Name  |   Data Type   |  Data Format  |  Field Size   |  Description  |    Example   |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| CommentID | Int |  |  | Unique identifier for each comment. | 1001 |
+| Content | Text |  | Variable | Text content of the Comment | "Great post! Thanks for sharing." |
+| DateCommended | Date | YYYY/MM/DD |  | Date when Comment  was Posted | 2024-08-23 |
+| UserID | Int |  |  | Reference to the user who posted the comment | 1001 |
+| PostID | Int |  |  | Reference to the post on which the comment was posted | 2001 |
+
+CATEGORYTABLE
+
+|   Field Name  |   Data Type   |  Data Format  |  Field Size   |  Description  |    Example   |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| CategoryID | Int |  | 4 bytes | Primary key for identifying each category uniquely. | 1 |
+| Name | varchar |  | 255 | The name of the category. | "Technology" |
+
+
      
   
   3. ERD
