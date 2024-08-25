@@ -195,6 +195,7 @@ Notifications and Alerts:
 - Customizable notification settings: Allow users to control the types of notifications they receive.
 
         2. Use case
+    ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/BloggingPlatform/main/3bc620f0-ee2c-43a8-af7d-1808470cb3b2.jfif)
 
   
 
