@@ -244,4 +244,4 @@ CATEGORYTABLE
      
   
   3. ERD
-     ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/Gerliedao-ayan/main/D.jfif)
+       ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/BloggingPlatform/main/ERD.jfif)
