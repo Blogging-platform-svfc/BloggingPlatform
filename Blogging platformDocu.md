@@ -44,8 +44,6 @@ Emotional: The Project covers a clear, emotional line: as a result, students are
 Inclusive: The Project reports the reference points for real students from different ethnic groups, cultures and social identity backgrounds. It also broadens our college education subject matter.
 
 ## C. Project Scope
-
-Project Scope for a Blogging Platform
  
 
  
