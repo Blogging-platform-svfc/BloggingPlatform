@@ -191,7 +191,7 @@ Inclusive: The Project reports the reference points for real students from diffe
 
 ## D. Work breakdown Structure
 
-![Image Alt]()
+![Image Alt](https://github.com/Gerliedao-ayan/BloggingPlatform/blob/539371f030b1686604226268e135236a5498cbc7/Jonathan%20Patterson.png)
 
 ## E. Functional Requirements
 
@@ -309,8 +309,7 @@ CATEGORYTABLE
 | CategoryID | Int |  | 4 bytes | Primary key for identifying each category uniquely. | 1 |
 | Name | varchar |  | 255 | The name of the category. | "Technology" |
 
-
-     
-  
+    
   3. ERD
+     
        ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/BloggingPlatform/main/ERD.jfif)
