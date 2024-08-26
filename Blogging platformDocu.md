@@ -44,9 +44,7 @@ Emotional: The Project covers a clear, emotional line: as a result, students are
 Inclusive: The Project reports the reference points for real students from different ethnic groups, cultures and social identity backgrounds. It also broadens our college education subject matter.
 
 ## C. Project Scope
- 
 
- 
 1. Project Objectives:
  
 - Create a user-friendly platform: Enable users to easily create, publish, and manage blog posts.
@@ -193,44 +191,7 @@ Inclusive: The Project reports the reference points for real students from diffe
 
 ## D. Work breakdown Structure
 
-1. Planning and Preparation
- 
-- Understand the Needs:  Figure out what users want from the platform (creating posts, commenting, sharing, etc.).
-- Technical Planning: Choose the tools and technologies (like programming languages, databases) that will be used.
-- Design the System:  Create a blueprint for how the platform will work, including how data will be stored and shared.
- 
-2. Building the Platform
- 
-- Front-End Development: Create the user interface (UI) that people see and interact with (like the blog post editor, comment section, etc.).
-- Back-End Development:  Write the code that makes the platform function behind the scenes (handling user accounts, storing data, etc.).
-- Database Design:  Set up the database to store all the blog posts, comments, user information, etc.
- 
-3. Testing and Quality Assurance
- 
-- Unit Testing:  Test individual pieces of code to make sure they work correctly.
-- Integration Testing:  Test how different parts of the platform work together.
-- User Acceptance Testing (UAT):  Have real users try out the platform to see if it's easy to use and meets their needs.
-- Security Testing:  Make sure the platform is secure and protects user data.
- 
-4. Deployment and Launch
- 
-- Choose Hosting:  Decide where the platform will live online (e.g., on a server in the cloud).
-- Set Up the Environment:  Get the server and database ready to run the platform.
-- Deploy the Code:  Put the finished code onto the server.
-- Testing and Monitoring:  Make sure everything is working as expected after launch and monitor the platform for any issues.
- 
-5. Maintenance and Support
- 
-- Keep Things Running:  Fix bugs, make updates, and keep the platform secure.
-- Support Users:  Help users with any problems they encounter.
-- Plan for the Future:  Think about new features or improvements to add to the platform in the future.
- 
-Remember:
- 
-- Teamwork:  Everyone needs to work together to make the platform successful.
-- Project Management:  Use tools and methods to keep track of progress and deadlines.
-- Budget and Timeline:  Set realistic goals for how much money and time the project will take.
-
+![Image Alt]()
 
 ## E. Functional Requirements
 
