@@ -96,7 +96,7 @@ Potential for Expansion and Diversification:
 - User acceptance testing
 ## F. Benchmarking:
 
-ex: Collegestudentsvfcblog.ph
+ex: studentblog.ph
 
 ## G. Estimated Project Duration: 4 to 5 months
 
