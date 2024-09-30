@@ -107,7 +107,7 @@ Potential for Expansion and Diversification:
 
 3. Adjacent Markets: The platform can seek out possibilities in nearby markets, such as online education platforms, manuals for career development or student-centered social networks.
   
-E. Project Deliverables:
+## E. Project Deliverables:
 
 1. Requirements
 
