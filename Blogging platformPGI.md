@@ -107,11 +107,11 @@ Potential for Expansion and Diversification:
 
 3. Adjacent Markets: The platform can seek out possibilities in nearby markets, such as online education platforms, manuals for career development or student-centered social networks.
   
-## E. Project Deliverables:
+E. Project Deliverables:
 
 1. Requirements
 
-Research and Analysis on Blogging Platforms
+Research and Analysis
 
 Introduction to Blogging Platforms
 Blogging platforms have fundamentally transformed the way individuals and organizations disseminate information, tell stories, and engage audiences across the world. These platforms offer intuitive, user-friendly interfaces and functionalities for both content creation and audience engagement. From humble beginnings as simple online journals, blogging platforms have evolved into dynamic multimedia publishing tools that support images, videos, SEO optimization, and real-time social media sharing. 
