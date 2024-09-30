@@ -165,6 +165,7 @@ The future of blogging platforms will likely focus on enhanced interactivity, im
 
 
 #Data gathering
+
 #User stories
 
 #Use Case
