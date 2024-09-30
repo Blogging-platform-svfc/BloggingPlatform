@@ -119,18 +119,21 @@ Potential for Expansion and Diversification:
   • Entity Relationship Diagram
   • Dataflow Diagram
 
+2. Design
+  • Low Fidelity
+  • High Fidelity
+  • Prototype
 
-2.  Design
-- Low fidelity
-- High fidelity
-- Prototype
+4. Development
+   
 
-3. Development
-4. Testing
-- Functional
-- Non-functional
-5. Deployment
-- User acceptance testing
+6. Test
+  • Functional
+  • Non-Functional
+
+8. Deploy
+  • User Acceptance Testing
+
 ## F. Benchmarking:
 
 ex: studentblog.ph
