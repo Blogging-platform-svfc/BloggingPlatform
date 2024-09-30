@@ -107,8 +107,7 @@ Potential for Expansion and Diversification:
 
 3. Adjacent Markets: The platform can seek out possibilities in nearby markets, such as online education platforms, manuals for career development or student-centered social networks.
   
-## E. Project Deliverables:
-
+E. Project Deliverables:
 1. Requirements
   • Research and analysis
   • Data Gathering
@@ -130,6 +129,9 @@ Potential for Expansion and Diversification:
 6. Test
   • Functional
   • Non-Functional
+
+8. Deploy
+  • User Acceptance Testing
 
 8. Deploy
   • User Acceptance Testing
