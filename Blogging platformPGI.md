@@ -116,10 +116,12 @@ Potential for Expansion and Diversification:
 - Use case
 - Data dictionary
 - Diagrams (ER, Dataflow)
+
 2.  Design
 - Low fidelity
 - High fidelity
 - Prototype
+
 3. Development
 4. Testing
 - Functional
