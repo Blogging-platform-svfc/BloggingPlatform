@@ -108,33 +108,49 @@ Potential for Expansion and Diversification:
 3. Adjacent Markets: The platform can seek out possibilities in nearby markets, such as online education platforms, manuals for career development or student-centered social networks.
   
 E. Project Deliverables:
+
 1. Requirements
-  • Research and analysis
-  • Data Gathering
-  • User Stories
-  • User Requirements
-  • Use Case
-  • Data Dictionary
-  • Entity Relationship Diagram
-  • Dataflow Diagram
+   
+       • Research and analysis
+       
+       • Data Gathering
+       
+       • User Stories
+       
+       • User Requirements
+       
+       • Use Case
+       
+       • Data Dictionary
+       
+       • Entity Relationship Diagram
+       
+       • Dataflow Diagram
 
-2. Design
-  • Low Fidelity
-  • High Fidelity
-  • Prototype
+3. Design
+   
+       • Low Fidelity
+       
+       • High Fidelity
+       
+       • Prototype
 
-4. Development
+5. Development
    
 
 6. Test
-  • Functional
-  • Non-Functional
+   
+          • Functional
+
+          • Non-Functional
 
 8. Deploy
-  • User Acceptance Testing
+   
+          • User Acceptance Testing
 
 8. Deploy
-  • User Acceptance Testing
+   
+          • User Acceptance Testing
 
 ## F. Benchmarking:
 
@@ -142,9 +158,12 @@ ex: studentblog.ph
 
 ## G. Estimated Project Duration: 
 
-4 to 5 months
+           4 to 5 months
 
 prepared by:
-Beriso, Jerome C.
-Dao-ayan Gerlie E.
-Soler, Pauline R.
+
+           Beriso, Jerome C.
+
+           Dao-ayan Gerlie E.
+
+           Soler, Pauline R.
