@@ -111,7 +111,7 @@ Potential for Expansion and Diversification:
 
 1. Requirements
 
-*Research and Analysis
+#Research and Analysis
 
 Introduction to Blogging Platforms
 Blogging platforms have fundamentally transformed the way individuals and organizations disseminate information, tell stories, and engage audiences across the world. These platforms offer intuitive, user-friendly interfaces and functionalities for both content creation and audience engagement. From humble beginnings as simple online journals, blogging platforms have evolved into dynamic multimedia publishing tools that support images, videos, SEO optimization, and real-time social media sharing. 
@@ -133,7 +133,7 @@ Key Competitors:
 - Blogger: Google-owned, it provides an easy-to-use platform for beginners.
 - Ghost: An open-source, modern platform focused on speed and simplicity, popular among independent writers.
 
-Key Features and Requirements for a Modern Blogging Platform
+Key Features and Requirements 
 Based on the provided project features, the following are essential functionalities and considerations that every successful blogging platform should incorporate:
 
 1. Content Creation Tools:
@@ -164,10 +164,10 @@ Future Considerations
 The future of blogging platforms will likely focus on enhanced interactivity, improved community engagement tools, and artificial intelligence integration. AI-powered features such as content recommendations, sentiment analysis in comments, and personalized post suggestions will likely shape the next generation of blogging platforms. Moreover, blockchain technology could provide novel ways to ensure transparency in content ownership and attribution.
 
 
-*Data gathering
-*User stories
+#Data gathering
+#User stories
 
-*Use Case
+#Use Case
 
 User:
 - Create Blog: Users can create new blog posts.
@@ -189,7 +189,7 @@ Admin:
 - Moderate Content: Admins can monitor and moderate user-generated content to ensure it adheres to platform guidelines.
 
  
-*Data Dictionary
+#Data Dictionary
 1. USERTABLE
 UserID: Int – A unique identifier for each user, serving as the primary key. (Example: 1001)
 UserName: Varchar (255) – A name used for identification on the platform. (Example: GERL_DAO)
@@ -213,7 +213,7 @@ CategoryID: Int – Primary key for identifying each category. (Example: 1)
 Name: Varchar (255) – The name of the category. (Example: Technology)
 
 
-*Diagrams (ER, Dataflow)
+#Diagrams (ER, Dataflow)
   
 Entities:
 
