@@ -9,9 +9,13 @@ This problem statement highlights the critical need for a dedicated blogging pla
 
 
 Sources:
+
 "Pros and Cons of Blogging for Students." Palomar College Telescope, 9 May 2019, www.palomar.edu/telescope/2019/05/09/pros-and-cons-of-blogging-for-students/.
+
 "Opinion: For Students, Blogging Doesn't Feel Like Work." Education Week, 1 Feb. 2017, www.edweek.org/leadership/opinion-for-students-blogging-doesnt-feel-like-work/2017/02.
+
 "3 Problems to Address Before You Begin Blogging at Your School." Ask a Tech Teacher, www.askatechteacher.com/3-problems-to-address-before-you-begin-blogging-at-your-school/.
+
 "Blogging for Students in the Classroom." Scale Blogging, www.scaleblogging.com/blogging-for-students-in-the-classroom/.
  "Blogging for Students in the Classroom." Scale Blogging, www.scaleblogging.com/blogging-for-students-in-the-classroom/.
 
