@@ -74,13 +74,13 @@ Targeted Audience and Niche Market:
  
 Monetization Opportunities and Revenue Streams:
 
-4. Advertising Revenue: By placing targeted ads based on student demographics ' specific content hobby and strong purchasing power this platform can gain more pages view (revenue).
+1. Advertising Revenue: By placing targeted ads based on student demographics ' specific content hobby and strong purchasing power this platform can gain more pages view (revenue).
 
-5. Premium Features and Subscriptions: For a reasonable subscription fee, the platform could offer premium features such as advanced statistics, personalized themes with wallpaper or dark mode backgrounds or otherwise improve user experience in some way.
+2. Premium Features and Subscriptions: For a reasonable subscription fee, the platform could offer premium features such as advanced statistics, personalized themes with wallpaper or dark mode backgrounds or otherwise improve user experience in some way.
 
-6. Affiliate Marketing: Through cooperation with educational publishers, software vendors, and other relevant enterprises the platform can benefit from affiliate marketing programmes.
+3. Affiliate Marketing: Through cooperation with educational publishers, software vendors, and other relevant enterprises the platform can benefit from affiliate marketing programmes.
 
-7. Educational Resources and Services: Government-funded websites could offer fee-paying educational resources such as writing courses, seminars on-line or career guidance services tailored to students ' specific requirements.
+4. Educational Resources and Services: Government-funded websites could offer fee-paying educational resources such as writing courses, seminars on-line or career guidance services tailored to students ' specific requirements.
  
 Brand Building and Market Positioning:
 
