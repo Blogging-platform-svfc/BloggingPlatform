@@ -296,9 +296,8 @@ Scalability: The platform should be able to handle a growing number of users an
 | |In-App Notifications   |Provide in-app notifications to alert users of new activity on the platform.  |  
 | | Customizable Notification Settings |Allow users to control the types of notifications they receive.  |  
 
-
         2. Use case
-    ![Image Alt](https://github.com/Blogging-platform-svfc/BloggingPlatform/blob/2350d4210e8e51647fca206615a14370eb329d8f/use%20case%20pic.png)
+    ![Image](https://github.com/Blogging-platform-svfc/BloggingPlatform/blob/2350d4210e8e51647fca206615a14370eb329d8f/use%20case%20pic.png)
 
   
 
