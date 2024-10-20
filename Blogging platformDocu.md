@@ -256,76 +256,49 @@ Scalability: The platform should be able to handle a growing number of users an
 
 ## E. Functional Requirements
 
-        1. User Requirements
-        User Registration and Authentication:
- 
-- Easy signup:  The registration process should be simple and straightforward, requiring minimal information.
-- Social logins: Allow users to sign up or log in using their existing social media accounts (Facebook, Google, etc.).
-- Secure password management: Implement strong password policies and offer features like password recovery and two-factor authentication.
-- Profile customization: Users should be able to create a profile with a username, bio, profile picture, and other relevant information.
- 
-Create and Manage Blog Posts:
- 
-- WYSIWYG editor: Provide a user-friendly editor that allows users to format text, add images, embed videos, and create lists without needing to know HTML.
-- Draft and schedule posts: Allow users to save drafts and schedule posts for future publication.
-- Image and media upload:  Enable users to upload images and other media directly to their posts.
-- Categorization and tagging:  Allow users to categorize and tag their posts to improve organization and searchability.
-- Post editing history: Keep track of changes made to posts and allow users to revert to previous versions.
- 
-Commenting and Interaction:
- 
-- Nested comments: Allow users to reply to comments, creating a threaded discussion.
-- Comment moderation:  Give administrators the ability to moderate comments and remove spam or inappropriate content.
-- Comment notifications: Notify users when they receive new comments on their posts.
-- Like and share buttons: Allow users to like and share posts with their social networks.
-- User mentions: Enable users to mention other users in comments and posts.
- 
-User Roles and Permissions:
- 
-- Different user roles: Define distinct roles for users (e.g., author, editor, administrator) with varying levels of access and permissions.
-- Role-based access control: Restrict access to specific features and functionalities based on user roles.
-- User management: Allow administrators to create, edit, and delete user accounts, assign roles, and manage permissions.
- 
-Search and Navigation:
- 
-- Search functionality: Implement a robust search feature that allows users to find blog posts by keywords, categories, tags, or author.
-- Navigation menus: Provide clear and intuitive navigation menus to help users find their way around the platform.
-- Category and tag filtering: Allow users to filter blog posts by specific categories or tags.
-- Recent posts: Display a list of recent posts to keep users up-to-date.
- 
-Responsive Design:
- 
-- Mobile-first design: Optimize the platform for mobile devices, ensuring a seamless experience on smaller screens.
-- Adaptive layout: Automatically adjust the layout and content to fit different screen sizes and resolutions.
-- Touch-friendly interface: Make the platform easy to use with touch gestures on mobile devices.
- 
-Social Media Integration:
- 
-- Social sharing buttons: Include buttons for sharing blog posts on popular social media platforms.
-- Social logins: Allow users to sign up or log in using their existing social media accounts.
-- Social media feeds: Integrate social media feeds into the platform to display recent posts and updates from connected users.
- 
-Analytics and Reporting:
- 
-- Traffic statistics: Track website traffic, page views, and unique visitors.
-- Post performance: Analyze the performance of individual blog posts, including views, likes, shares, and comments.
-- User engagement: Monitor user interactions, such as comments, likes, and shares.
-- Reporting tools: Provide administrators with customizable reports and dashboards to track key metrics and make informed decisions.
- 
-Customization and Personalization:
- 
-- Theme selection: Allow users to choose from a variety of themes or customize the appearance of their blogs.
-- Profile customization: Give users the ability to personalize their profiles with custom backgrounds, colors, and layouts.
-- Reading preferences: Allow users to customize their reading experience, such as font size, color schemes, and layout.
- 
-Notifications and Alerts:
- 
-- Email notifications: Send email notifications for new comments, likes, and shares on blog posts.
-- In-app notifications: Provide in-app notifications to alert users of new activity on the platform.
-- Customizable notification settings: Allow users to control the types of notifications they receive.
+|   Functional Requirement Category | Requirement | Description| 
+| ------------- | ------------- | ------------- | 
+|User Registration and Authentication | Easy Signup | The registration process should be simple and require minimal information. |  
+| | Social Logins |Allow users to sign up or log in using their existing social media accounts (Facebook, Google, etc.).  | 
+| |Secure Password Management |Implement strong password policies and offer features like password recovery and two-factor authentication.| 
+| |Profile Customization| Users should be able to create a profile with a username, bio, profile picture, and other relevant information.|
+|Create and Manage Blog Posts | WYSIWYG Editor | Provide a user-friendly editor that allows users to format text, add images, embed videos, and create lists without needing to know HTML. |  
+| |Draft and Schedule Posts  |Allow users to save drafts and schedule posts for future publication.  |  
+| |Image and Media Upload  | 	Enable users to upload images and other media directly to their posts. |  
+| |Categorization and Tagging  | Allow users to categorize and tag their posts to improve organization and searchability. |  
+| | Post Editing History | Keep track of changes made to posts and allow users to revert to previous versions. |  
+|Commenting and Interaction |Nested Comments | Allow users to reply to comments, creating a threaded discussion. |  
+| |Comment Moderation  |  Give administrators the ability to moderate comments and remove spam or inappropriate content.|  
+| |Comment Notifications  | Notify users when they receive new comments on their posts. |  
+| |Like and Share Buttons  | Allow users to like and share posts with their social networks. |  
+| | User Mentions | 	Enable users to mention other users in comments and posts. | 
+|User Roles and Permissions | Different User Roles | Define distinct roles for users (e.g., author, editor, administrator) with varying levels of access and permissions. |  
+| | Role-Based Access Control | Restrict access to specific features and functionalities based on user roles. |  
+| |User Management  |Allow administrators to create, edit, and delete user accounts, assign roles, and manage permissions.  |  
+| Search and Navigation |Search Functionality |Implement a robust search feature that allows users to find blog posts by keywords, categories, tags, or author.  |  
+| | Navigation Menus  |Provide clear and intuitive navigation menus to help users find their way around the platform.  |  
+| |Category and Tag Filtering  | Allow users to filter blog posts by specific categories or tags. |  
+| |Recent Posts  | Display a list of recent posts to keep users up-to-date. |  
+|Responsive Design | Mobile-First Design | Optimize the platform for mobile devices, ensuring a seamless experience on smaller screens. |  
+| | Adaptive Layout |Automatically adjust the layout and content to fit different screen sizes and resolutions.  |  
+| | Touch-Friendly Interace | Make the platform easy to use with touch gestures on mobile devices. |  
+| Social Media Integration | Social Sharing Buttons | Include buttons for sharing blog posts on popular social media platforms. |  
+| |Social Logins  |Allow users to sign up or log in using their existing social media accounts.  |  
+| |Social Media Feeds  | Integrate social media feeds into the platform to display recent posts and updates from connected users. |  
+|Analytics and Reporting |Traffic Statistics  | Track website traffic, page views, and unique visitors. |  
+| |Post Performance  |Analyze the performance of individual blog posts, including views, likes, shares, and comments.  |  
+| |User Engagement  | Monitor user interactions, such as comments, likes, and shares. |  
+| |Reporting Tools  |Provide administrators with customizable reports and dashboards to track key metrics and make informed decisions.|  
+|Customization and Personalization |Theme Selection  |	Allow users to choose from a variety of themes or customize the appearance of their blogs.  |  
+| |Profile Customization  |Give users the ability to personalize their profiles with custom backgrounds, colors, and layouts.  |  
+| |Reading Preferences  |Allow users to customize their reading experience, such as font size, color schemes, and layout.  |  
+| Notifications and Alerts |  Email Notifications | Send email notifications for new comments, likes, and shares on blog posts. |  
+| |In-App Notifications   |Provide in-app notifications to alert users of new activity on the platform.  |  
+| | Customizable Notification Settings |Allow users to control the types of notifications they receive.  |  
+
 
         2. Use case
-    ![Image Alt](https://raw.githubusercontent.com/Gerliedao-ayan/BloggingPlatform/main/3bc620f0-ee2c-43a8-af7d-1808470cb3b2.jfif)
+    ![Image Alt](https://github.com/Blogging-platform-svfc/BloggingPlatform/blob/2350d4210e8e51647fca206615a14370eb329d8f/use%20case%20pic.png)
 
   
 
