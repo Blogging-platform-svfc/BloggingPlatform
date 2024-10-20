@@ -297,8 +297,7 @@ Scalability: The platform should be able to handle a growing number of users an
 | | Customizable Notification Settings |Allow users to control the types of notifications they receive.  |  
 
         2. Use case
-    ![Image Alt](use case pic.png)
-
+![image](https://github.com/Bloggingplatformsvfc/BloggingPlatform/blob/32278cfd575a4d5f52ef2061c1a90750f0250eed/use%20case%20pic.png)
   
 
 ## F.Database Architecture
