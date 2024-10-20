@@ -353,4 +353,6 @@ Admin Table:
 
   3. ERD
      
+     ![Image Alt](https://raw.githubusercontent.com/Blogging-platform-svfc/BloggingPlatform/refs/heads/main/ERD...jfif)
+     
      https://lucid.app/lucidchart/8d027f57-9539-45c9-9ee8-a3d96c40a8bb/edit?viewport_loc=-76%2C-12%2C1536%2C938%2C0_0&invitationId=inv_455fac07-2521-4b1f-8fc6-5fb808c30683
