@@ -298,7 +298,7 @@ Scalability: The platform should be able to handle a growing number of users an
 
         2. Use case
         
-![Image Alt](https://github.com/Bloggingplatformsvfc/BloggingPlatform/blob/32278cfd575a4d5f52ef2061c1a90750f0250eed/use%20case%20pic.png)
+![Image Alt](https://github.com/Blogging-platform-svfc/BloggingPlatform/blob/main/use%20case%20pic.png)
   
 
 ## F.Database Architecture
