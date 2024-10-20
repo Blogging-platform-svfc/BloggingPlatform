@@ -370,7 +370,15 @@ CATEGORYTABLE
 | CategoryID | Int |  | 4 bytes | Primary key for identifying each category uniquely. | 1 |
 | Name | varchar |  | 255 | The name of the category. | "Technology" |
 
-    
+Admin Table:
+
+|   Field Name  |   Data Type   |  Data Format  |  Field Size   |  Description  |    Example   |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
+| Admin ID | Int |  |  | Admin ID is the unique identifier for each admin in the system. It serves as the primary key for the Admin table, ensuring each admin has a distinct identification number. | CAdminID: 1001 |
+| User ID | Int |  |  | Admin ID is the unique identifier for each admin in the system. It serves as the primary key for the Admin table, ensuring each admin has a distinct identification number. | CAdminID: 1001 |    
+|  |  |  |  | 	Foreign key referencing the User table, indicating the user associated with this admin account. | CUserID: 1001 |
+
+
   3. ERD
      
      https://lucid.app/lucidchart/8d027f57-9539-45c9-9ee8-a3d96c40a8bb/edit?viewport_loc=-76%2C-12%2C1536%2C938%2C0_0&invitationId=inv_455fac07-2521-4b1f-8fc6-5fb808c30683
