@@ -38,10 +38,7 @@ A project called The College Compass aims to design a college student-specific d
 | | Research Integration |Seamless linking with academic databases and research tools to access relevant information.  | 
 | | Peer Review and Feedback| Facilitates peer review processes for students to provide feedback on each other's work.  | 
 | |Academic Resources | Provides links to online libraries, research guides, and writing centers.  | 
-| Gamification and Motivation |Badges and Achievements | A gamification system awards badges and honors for participation, high-quality content, and community contributions. |  
-| | Leaderboard and Rankings  |Highlights the highest achievements and most successful bloggers.  | 
-| | Personalized Recommendations | Provides recommendations for blog posts and resources based on student interests and academics.  | 
-| |Community Events | Regular community events like writing contests, workshops, and blogathons to fos.  | 
+
 
 ## D. Business Benefits:
   |  Business Benefit Category  |   Benefit |  Description  |   
